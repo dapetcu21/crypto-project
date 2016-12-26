@@ -1,4 +1,4 @@
-# Breaking Node.js 0.13's RNG
+# Breaking Node.js 0.12's RNG
 > Marius Petcu - 343C4
 
 An implementation of [Exploiting CSGOJackpot's Weak RNG](https://jonasnick.github.io/blog/2015/07/08/exploiting-csgojackpots-weak-rng/).
